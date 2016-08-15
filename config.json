@@ -1,0 +1,11 @@
+{
+    "url": "https://iqss-crossroads.herokuapp.com",
+    "secret": "a411a694-381e-49e4-8b27-0c7ab7cf091c",
+    "database": "redis",
+    "redis": {
+        "host": "sculpin.redistogo.com",
+        "port": "9534",
+        "password": "48447bfcb67220c92f47adb2e1b3021b",
+        "database": "0"
+    }
+}
